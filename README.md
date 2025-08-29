@@ -1,3 +1,5 @@
+# Please note that this version is deprecated and will no longer be supported. For the most recent version of TauREx please visit https://taurex.space/
+
 # TauREx version 2.6
 
 TauREx (Tau Retrieval for Exoplanets) is a fully bayesian inverse atmospheric retrieval framework. 
@@ -15,7 +17,7 @@ Waldmann et al. (2015b), “Tau-REx II: Retrieval of Emission Spectra, ApJ, 813,
 - Ingo Waldmann 
 - Marco Rocchetto 
 - Tiziano Zingales
-- Kay Yip
+- Kai Yip
 - Angelos Tsiaras
 
 ---
